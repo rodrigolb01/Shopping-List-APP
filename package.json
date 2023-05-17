@@ -3,16 +3,24 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --tunnel",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0",
     "expo": "~48.0.15",
+    "expo-font": "~11.1.1",
     "expo-status-bar": "~1.4.4",
+    "link": "^1.5.1",
+    "native-base": "^2.15.2",
     "react": "18.2.0",
-    "react-native": "0.71.7"
+    "react-dom": "^18.2.0",
+    "react-native": "^0.71.7",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-iphone-x-helper": "^1.3.1",
+    "react-native-web": "~0.18.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
