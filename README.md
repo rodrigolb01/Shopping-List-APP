@@ -20,10 +20,10 @@ Pré-requisitos:
 # clonar repositório
 git clone https://github.com/rodrigolb01/Shopping-List-APP
 
-# entrar na pasta do projeto e baixar dependências ( npm)
+# entrar na pasta do projeto e baixar dependências (com npm)
 npm install
 
-# entrar na pasta do projeto e baixar dependências ( yarn)
+# entrar na pasta do projeto e baixar dependências (com yarn)
 yarn install
 
 # executar o projeto
